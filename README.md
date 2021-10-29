@@ -1,2 +1,2 @@
 # CICD-Workshop
-![testbadge](https://github.com/sjonesqw/CICD-Workshop/actions/workflows/.github/workflows/badge.svg)
+![testbadge](https://github.com/sjonesqw/CICD-Workshop/actions/workflows/samples.yml/badge.svg)
